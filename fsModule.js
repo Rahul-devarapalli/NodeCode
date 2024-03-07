@@ -1,7 +1,7 @@
 
 
 const fs = require("fs");
-console.log("im working")
+console.log("im working fine")
 
 // fs.writeFile('message.txt', 'Hello Node.js', 'utf8',(err)=>{
 //     if(err) throw err;
